@@ -1,4 +1,5 @@
-ABC COMPANY DATASET - Project Overview
+ABC COMPANY DATASET
+Project Overview
 This project analyzes employee data from ABC Company, comprising 458 rows and 9 columns. The goal is to generate a detailed report on employee distribution across teams, analyze roles and salary expenditures, investigate age and salary correlations, and visually present key findings. The final analysis offers actionable insights that can help in decision-making regarding employee management and resource allocation.
 
 Table of Contents
